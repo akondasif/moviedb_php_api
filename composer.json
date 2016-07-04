@@ -37,7 +37,8 @@
         "zendframework/zend-developer-tools": "dev-master",
         "zfcampus/zf-apigility-admin": "^1.4.1",
         "zfcampus/zf-apigility-admin-ui": "^1.2.3",
-        "zfcampus/zf-deploy": "~1.0"
+        "zfcampus/zf-deploy": "~1.0",
+        "zfcampus/zf-apigility-documentation-swagger": "~1.0-dev"
     },
     "suggest": {
         "zfcampus/zf-apigility-doctrine": "zfcampus/zf-apigility-doctrine ~1.0 to create Doctrine-Connected REST services",
